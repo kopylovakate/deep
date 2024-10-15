@@ -15,6 +15,7 @@ out/
 .sts4-cache
 deep.iml
 *.iml
+/deep.iml/
 
 bin/
 !**/src/main/**/bin/
